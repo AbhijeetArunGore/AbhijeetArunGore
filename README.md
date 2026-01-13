@@ -69,13 +69,6 @@ I prefer learning by **building complete projects** rather than collecting certi
 
 ---
 
-## 📊 GitHub Activity
-
-![Abhijeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhijeetArunGore&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhijeetArunGore&layout=compact)
----
-
 ## 🤝 Contact
 
 - Email: **goreabhijeet137@gmail.com**
