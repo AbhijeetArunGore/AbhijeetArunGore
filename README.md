@@ -9,3 +9,5 @@ Final-year Computer Engineering student specializing in Data Science, focused on
 ## 👨‍💻 About Me
 
 Final-year B.E. Computer Engineering student pursuing Honours in Data Science at SNJB's Late Sau. K. B. Jain College of Engineering, Nashik (Savitribai Phule Pune University, Batch 2027) with a CGPA of **8.14 / 10**.
+
+My work centers on building reproducible data pipelines, writing clean analytical SQL queries, engineering predictive ML workflows, creating executive Power BI dashboards, and developing LLM-driven AI agents. I emphasize solving real business problems with clean architecture, practical data validation, and clear visual communication.
