@@ -12,7 +12,7 @@ Final-year B.E. Computer Engineering student pursuing Honours in Data Science at
 
 My work centers on building reproducible data pipelines, writing clean analytical SQL queries, engineering predictive ML workflows, creating executive Power BI dashboards, and developing LLM-driven AI agents. I emphasize solving real business problems with clean architecture, practical data validation, and clear visual communication.
 
-* **Target Roles:** Data Analyst | BI Analyst | Business Analyst | Junior Data Scientist | Data Engineer
+* **Target Roles:** Data Analyst | Business Analyst | Junior Data Scientist | Data Engineer
 
 ---
 
