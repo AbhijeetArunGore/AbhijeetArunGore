@@ -69,3 +69,11 @@ Automated data pipeline orchestrating data extraction, transformation, and relat
 * **Key Implementation:** Designed Directed Acyclic Graphs (DAGs) in Airflow to extract raw datasets, perform cleaning and schema transformations in Python, and load sanitized data into a PostgreSQL warehouse.
 * **Tech Stack:** Apache Airflow, Python, PostgreSQL, Pandas, Docker
 * **Business Value:** Ensures reliable, scheduled, and reproducible data ingestion without manual intervention.
+
+### AI & Machine Learning Systems
+
+#### 🤖 [Agentic Medical RAG System](https://github.com/AbhijeetArunGore/Agentic_Medical_RAG)
+Intelligent Retrieval-Augmented Generation application designed for querying domain-specific medical literature and clinical reports.
+* **Key Implementation:** Built a multi-step agentic workflow incorporating document chunking, vector embedding storage, semantic similarity search, and automated answer verification.
+* **Tech Stack:** Python, LangChain, LLMs, Vector Databases, RAG Architecture
+* **Business Value:** Accelerates medical document querying while mitigating hallucinations through verified vector retrieval context.
