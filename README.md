@@ -49,3 +49,9 @@ End-to-end customer churn analysis and prediction pipeline integrating relationa
 * **Key Implementation:** Processed customer transaction data using SQL Server queries; trained classification models in Python to identify high-risk customer segments; built an interactive Power BI dashboard to present churn drivers and retention KPIs.
 * **Tech Stack:** Python, SQL Server, Pandas, Scikit-learn, Power BI, DAX
 * **Business Value:** Combines quantitative ML risk scores with visual BI dashboards to inform retention-focused decision-making.
+
+#### 📊 [Power BI DAX Business Scenario Playground](https://github.com/AbhijeetArunGore/powerbi-dax-playground)
+A structured repository of advanced Power BI DAX patterns, data modeling techniques, and real-world analytics scenarios.
+* **Key Implementation:** Formulated custom time-intelligence DAX measures (YTD, QTD, MoM growth), dynamic rank calculations, context-transition logic, and performance-optimized DAX queries.
+* **Tech Stack:** Power BI Desktop, DAX, Data Modeling, Star Schema
+* **Business Value:** Provides modular, reusable DAX analytical patterns for sales tracking, customer metrics, and financial reporting.
