@@ -77,3 +77,9 @@ Intelligent Retrieval-Augmented Generation application designed for querying dom
 * **Key Implementation:** Built a multi-step agentic workflow incorporating document chunking, vector embedding storage, semantic similarity search, and automated answer verification.
 * **Tech Stack:** Python, LangChain, LLMs, Vector Databases, RAG Architecture
 * **Business Value:** Accelerates medical document querying while mitigating hallucinations through verified vector retrieval context.
+
+#### 📊 [Client Performance Insight AI Agent](https://github.com/AbhijeetArunGore/client-performance-insight-agent)
+Autonomous AI agent for automated client metrics synthesis and executive report generation.
+* **Key Implementation:** Integrated analytical data parsing with LLM-driven synthesis to generate structured client health reports, automated performance warnings, and actionable recommendations.
+* **Tech Stack:** Python, AI Agents, REST APIs, Data Processing
+* **Business Value:** Reduces manual analysis overhead by converting raw client performance metrics into natural language business summaries.
