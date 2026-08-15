@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Abhijeet Gore</h1>
-<h3 align="center">Python Developer | Data Science Enthusiast</h3>
+<h3 align="center">Data Analyst / BI Analyst / Business Analyst / Data Science</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abhijeet-gore-972225282">
