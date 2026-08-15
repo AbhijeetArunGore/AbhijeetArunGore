@@ -25,3 +25,17 @@ My work centers on building reproducible data pipelines, writing clean analytica
 * **AI & LLM Workflows:** Developing Retrieval-Augmented Generation (RAG) pipelines and multi-tool AI agents using Python and LangChain.
 
 ---
+
+## 🛠️ Technical Skills
+
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Languages** | Python, SQL (MySQL, PostgreSQL, SQL Server) |
+| **Data & Analytics** | Pandas, NumPy, Data Cleaning, Exploratory Data Analysis (EDA), Feature Engineering, Statistical Analysis |
+| **BI & Visualization** | Power BI, DAX, Microsoft Excel (Pivot Tables, Advanced Formulas, Slicers), Tableau |
+| **Machine Learning** | Scikit-learn, XGBoost, Regression, Classification, Model Evaluation (Precision, Recall, ROC-AUC) |
+| **AI / LLM Systems** | Retrieval-Augmented Generation (RAG), AI Agents, Prompt Engineering, Vector Embeddings, LangChain |
+| **Data Engineering** | ETL Pipeline Design, Apache Airflow, PostgreSQL, Docker, AWS Foundations |
+| **Backend & Tools** | Flask, REST APIs, Git, GitHub, Jupyter Notebooks, VS Code |
+
+---
