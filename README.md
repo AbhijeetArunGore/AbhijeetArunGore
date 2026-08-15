@@ -1,6 +1,6 @@
 # Abhijeet Arun Gore
 
-Final-year Computer Engineering student specializing in Data Science, focused on building practical, production-oriented solutions across Data Analytics, Business Intelligence, Python, SQL, Machine Learning, and Data Engineering.
+Final-year Computer Engineering student specializing in Data Science, focused on Data Analytics, Business Intelligence, Python, SQL, Machine Learning, and applied AI systems. I build practical, data-driven projects that combine analytical problem solving with software engineering.
 
 [Portfolio](https://abhijeetgore.me) | [LinkedIn](https://www.linkedin.com/in/abhijeet-gore-972225282) | [GitHub](https://github.com/AbhijeetArunGore) | [Email](mailto:abhijeetarungore@gmail.com)
 
