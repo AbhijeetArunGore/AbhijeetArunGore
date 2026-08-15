@@ -20,3 +20,4 @@ My work centers on building reproducible data pipelines, writing clean analytica
 
 * **Analytical SQL & Modeling:** Writing complex queries, window functions, CTEs, and aggregated joins for business performance analytics.
 * **Business Intelligence & DAX:** Building interactive Power BI reports with custom DAX measures, time-intelligence functions, and structured star-schema data models.
+* **ETL & Data Engineering:** Orchestrating automated data pipelines using Python, SQL, and Apache Airflow.
