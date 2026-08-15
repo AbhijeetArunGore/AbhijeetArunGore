@@ -39,3 +39,7 @@ My work centers on building reproducible data pipelines, writing clean analytica
 | **Backend & Tools** | Flask, REST APIs, Git, GitHub, Jupyter Notebooks, VS Code |
 
 ---
+
+## 🚀 Featured Projects
+
+### Data Analytics & Business Intelligence
