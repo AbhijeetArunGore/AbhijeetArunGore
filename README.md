@@ -17,3 +17,5 @@ My work centers on building reproducible data pipelines, writing clean analytica
 ---
 
 ## 🎯 Current Focus
+
+* **Analytical SQL & Modeling:** Writing complex queries, window functions, CTEs, and aggregated joins for business performance analytics.
