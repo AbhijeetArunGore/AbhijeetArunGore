@@ -122,3 +122,12 @@ Data cleaning and machine learning pipeline for detecting anomalous financial tr
 * **Deloitte & Tata:** Virtual Data Analytics & Data Visualization Badges
 
 ---
+
+## ⚙️ How I Build
+
+1. **Business-Oriented Modeling:** Start with clear questions: What decision does this data inform, and what metric defines success?
+2. **Reproducible Execution:** Write modular code, structured SQL queries, and documented scripts over one-off manual fixes.
+3. **Validation First:** Conduct empirical data verification, outlier inspection, and evaluation metrics before drawing conclusions.
+4. **Clear Presentation:** Translate complex statistical outputs into simple, intuitive Power BI dashboards and executive summaries.
+
+---
