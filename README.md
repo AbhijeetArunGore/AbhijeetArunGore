@@ -55,3 +55,9 @@ A structured repository of advanced Power BI DAX patterns, data modeling techniq
 * **Key Implementation:** Formulated custom time-intelligence DAX measures (YTD, QTD, MoM growth), dynamic rank calculations, context-transition logic, and performance-optimized DAX queries.
 * **Tech Stack:** Power BI Desktop, DAX, Data Modeling, Star Schema
 * **Business Value:** Provides modular, reusable DAX analytical patterns for sales tracking, customer metrics, and financial reporting.
+
+#### ☕ [Coffee Shop Sales Analysis Dashboard](https://github.com/AbhijeetArunGore/excel-coffee-shop-sales-dashboard)
+Interactive business intelligence dashboard engineered strictly in Microsoft Excel to track operational sales dynamics.
+* **Key Implementation:** Formulated multi-level Pivot Tables, dynamic timeline slicers, peak-hour analysis charts, and key performance indicators to evaluate product performance across multiple retail locations.
+* **Tech Stack:** Microsoft Excel, Advanced Formulas, Pivot Tables, Pivot Charts, Data Analysis
+* **Business Value:** Delivers low-overhead operational reporting for store managers to analyze revenue trends and product popularity.
