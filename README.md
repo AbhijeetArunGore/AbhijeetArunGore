@@ -83,3 +83,11 @@ Autonomous AI agent for automated client metrics synthesis and executive report 
 * **Key Implementation:** Integrated analytical data parsing with LLM-driven synthesis to generate structured client health reports, automated performance warnings, and actionable recommendations.
 * **Tech Stack:** Python, AI Agents, REST APIs, Data Processing
 * **Business Value:** Reduces manual analysis overhead by converting raw client performance metrics into natural language business summaries.
+
+#### 🔍 [Financial Fraud Detection Engine](https://github.com/AbhijeetArunGore/Fraud_Detection_Jupyter_Data_Cleaning_Processing)
+Data cleaning and machine learning pipeline for detecting anomalous financial transactions.
+* **Key Implementation:** Applied class-imbalance techniques, extensive exploratory data analysis, feature transformation, and supervised classification algorithms to isolate suspicious activity.
+* **Tech Stack:** Python, Pandas, NumPy, Scikit-learn, Seaborn, Jupyter Notebook
+* **Business Value:** Provides an empirical predictive framework for identifying high-risk transactions prior to settlement.
+
+---
