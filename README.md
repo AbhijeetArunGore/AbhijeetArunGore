@@ -2,7 +2,7 @@
 
 Final-year Computer Engineering student specializing in Data Science, focused on building practical, production-oriented solutions across Data Analytics, Business Intelligence, Python, SQL, Machine Learning, and Data Engineering.
 
-[Portfolio](https://abhijeetgore.me) | [LinkedIn](https://www.linkedin.com/in/abhijeet-gore-972225282) | [GitHub](https://github.com/AbhijeetArunGore) | [Email](mailto:goreabhijeet137@gmail.com)
+[Portfolio](https://abhijeetgore.me) | [LinkedIn](https://www.linkedin.com/in/abhijeet-gore-972225282) | [GitHub](https://github.com/AbhijeetArunGore) | [Email](mailto:abhijeetarungore@gmail.com)
 
 ---
 
@@ -137,4 +137,4 @@ Data cleaning and machine learning pipeline for detecting anomalous financial tr
 * **Portfolio:** [abhijeetgore.me](https://abhijeetgore.me)
 * **LinkedIn:** [linkedin.com/in/abhijeet-gore-972225282](https://www.linkedin.com/in/abhijeet-gore-972225282)
 * **GitHub:** [github.com/AbhijeetArunGore](https://github.com/AbhijeetArunGore)
-* **Email:** [goreabhijeet137@gmail.com](mailto:goreabhijeet137@gmail.com)
+* **Email:** [abhijeetarungore@gmail.com](mailto:abhijeetarungore@gmail.com)
