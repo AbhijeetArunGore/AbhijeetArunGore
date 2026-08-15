@@ -15,3 +15,5 @@ My work centers on building reproducible data pipelines, writing clean analytica
 * **Target Roles:** Data Analyst | BI Analyst | Business Analyst | Junior Data Scientist | Data Engineer | Python / AI Developer
 
 ---
+
+## 🎯 Current Focus
