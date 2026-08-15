@@ -61,3 +61,11 @@ Interactive business intelligence dashboard engineered strictly in Microsoft Exc
 * **Key Implementation:** Formulated multi-level Pivot Tables, dynamic timeline slicers, peak-hour analysis charts, and key performance indicators to evaluate product performance across multiple retail locations.
 * **Tech Stack:** Microsoft Excel, Advanced Formulas, Pivot Tables, Pivot Charts, Data Analysis
 * **Business Value:** Delivers low-overhead operational reporting for store managers to analyze revenue trends and product popularity.
+
+### Data Engineering & Automation
+
+#### ⚙️ [End-to-End ETL Pipeline with Apache Airflow](https://github.com/AbhijeetArunGore/end_to_end_etl_pipeline_airflow)
+Automated data pipeline orchestrating data extraction, transformation, and relational loading.
+* **Key Implementation:** Designed Directed Acyclic Graphs (DAGs) in Airflow to extract raw datasets, perform cleaning and schema transformations in Python, and load sanitized data into a PostgreSQL warehouse.
+* **Tech Stack:** Apache Airflow, Python, PostgreSQL, Pandas, Docker
+* **Business Value:** Ensures reliable, scheduled, and reproducible data ingestion without manual intervention.
