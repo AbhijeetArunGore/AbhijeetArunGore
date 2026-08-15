@@ -91,3 +91,16 @@ Data cleaning and machine learning pipeline for detecting anomalous financial tr
 * **Business Value:** Provides an empirical predictive framework for identifying high-risk transactions prior to settlement.
 
 ---
+
+## 💼 Experience & Internships
+
+* **Zensar Technologies** — *Data Science & Python Trainee / Selected Candidate*
+  * Selected for technical training covering enterprise Python application development, structured data analysis, and software engineering practices.
+* **AI Leela (OM Intelligence)** — *AI Developer Intern*
+  * Worked on hands-on AI feature implementation, Python script development, and machine learning integration tasks.
+* **AICTE EduSkills (Altair & AWS Academy)** — *Data Science & AI-ML Intern*
+  * Completed intensive practical modules on statistical modeling, data analysis, and cloud-based machine learning workflows.
+* **Deloitte & Tata Group (via Forage)** — *Data Analytics & Visualization Job Simulations*
+  * Executed practical business analytics simulations including data cleanup, business requirement interpretation, dashboard design, and executive presentation deck creation.
+
+---
