@@ -112,3 +112,13 @@ Data cleaning and machine learning pipeline for detecting anomalous financial tr
   * **CGPA:** 8.14 / 10
 
 ---
+
+## 📜 Certifications
+
+* **AWS Academy:** Cloud Foundations & Machine Learning Foundations
+* **Oracle Cloud Infrastructure (OCI):** OCI Foundations & OCI AI Foundations
+* **Google:** Data Analytics & Generative AI Foundations
+* **Microsoft:** Power BI Data Analyst & Excel Data Analysis
+* **Deloitte & Tata:** Virtual Data Analytics & Data Visualization Badges
+
+---
