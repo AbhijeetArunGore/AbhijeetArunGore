@@ -131,3 +131,10 @@ Data cleaning and machine learning pipeline for detecting anomalous financial tr
 4. **Clear Presentation:** Translate complex statistical outputs into simple, intuitive Power BI dashboards and executive summaries.
 
 ---
+
+## 🌐 Connect With Me
+
+* **Portfolio:** [abhijeetgore.me](https://abhijeetgore.me)
+* **LinkedIn:** [linkedin.com/in/abhijeet-gore-972225282](https://www.linkedin.com/in/abhijeet-gore-972225282)
+* **GitHub:** [github.com/AbhijeetArunGore](https://github.com/AbhijeetArunGore)
+* **Email:** [goreabhijeet137@gmail.com](mailto:goreabhijeet137@gmail.com)
