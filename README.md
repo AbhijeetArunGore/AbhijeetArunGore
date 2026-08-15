@@ -43,3 +43,9 @@ My work centers on building reproducible data pipelines, writing clean analytica
 ## 🚀 Featured Projects
 
 ### Data Analytics & Business Intelligence
+
+#### 📈 [Customer Churn Prediction & Analytics](https://github.com/AbhijeetArunGore/customer-churn-prediction-sql-python-powerbi)
+End-to-end customer churn analysis and prediction pipeline integrating relational data processing, predictive modeling, and executive reporting.
+* **Key Implementation:** Processed customer transaction data using SQL Server queries; trained classification models in Python to identify high-risk customer segments; built an interactive Power BI dashboard to present churn drivers and retention KPIs.
+* **Tech Stack:** Python, SQL Server, Pandas, Scikit-learn, Power BI, DAX
+* **Business Value:** Combines quantitative ML risk scores with visual BI dashboards to inform retention-focused decision-making.
