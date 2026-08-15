@@ -104,3 +104,11 @@ Data cleaning and machine learning pipeline for detecting anomalous financial tr
   * Executed practical business analytics simulations including data cleanup, business requirement interpretation, dashboard design, and executive presentation deck creation.
 
 ---
+
+## 🎓 Education
+
+* **B.E. in Computer Engineering (Honours in Data Science)**
+  * SNJB's Late Sau. K. B. Jain College of Engineering, Nashik (SPPU) | *Graduation: 2027*
+  * **CGPA:** 8.14 / 10
+
+---
