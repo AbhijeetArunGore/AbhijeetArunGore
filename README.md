@@ -109,7 +109,7 @@ Data cleaning and machine learning pipeline for detecting anomalous financial tr
 
 * **B.E. in Computer Engineering (Honours in Data Science)**
   * SNJB's Late Sau. K. B. Jain College of Engineering, Nashik (SPPU) | *Graduation: 2027*
-  * **CGPA:** 8.14 / 10
+  * **CGPA:** 8.52 / 10
 
 ---
 
