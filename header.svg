@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 220" width="100%" height="220" fill="none">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0f1d"/>
+      <stop offset="50%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#080c16"/>
+    </linearGradient>
+
+    <!-- Accent Gradient -->
+    <linearGradient id="accentGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="50%" stop-color="#818cf8"/>
+      <stop offset="100%" stop-color="#c084fc"/>
+    </linearGradient>
+
+    <!-- Border Gradient -->
+    <linearGradient id="borderGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.4"/>
+      <stop offset="50%" stop-color="#818cf8" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#1e293b" stop-opacity="0.6"/>
+    </linearGradient>
+
+    <!-- Subtle Radial Glow -->
+    <radialGradient id="glow" cx="80%" cy="20%" r="50%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <style>
+    .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; }
+    .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; }
+    .badge-text { font-size: 11px; font-weight: 600; fill: #38bdf8; letter-spacing: 1.2px; text-transform: uppercase; }
+    .title-text { font-size: 32px; font-weight: 800; fill: #f8fafc; letter-spacing: 0.5px; }
+    .tagline { font-size: 15px; font-weight: 400; fill: #94a3b8; }
+    .highlight { font-weight: 600; fill: #e2e8f0; }
+    .pill-bg { fill: #1e293b; fill-opacity: 0.6; stroke: #334155; stroke-width: 1; rx: 6px; }
+    .pill-text { font-size: 11.5px; font-weight: 500; fill: #cbd5e1; }
+    .metric-dot { fill: #10b981; }
+  </style>
+
+  <!-- Container Box with Rounded Corners -->
+  <rect x="2" y="2" width="916" height="216" rx="14" fill="url(#bgGradient)"/>
+  <rect x="2" y="2" width="916" height="216" rx="14" fill="url(#glow)"/>
+  <rect x="2" y="2" width="916" height="216" rx="14" stroke="url(#borderGradient)" stroke-width="1.5"/>
+
+  <!-- Top Accent Bar -->
+  <path d="M 16 3 L 904 3" stroke="url(#accentGradient)" stroke-width="2.5" stroke-linecap="round"/>
+
+  <!-- Status / Eyebrow Pill -->
+  <g transform="translate(36, 28)">
+    <rect x="0" y="0" width="310" height="24" rx="12" fill="#0369a1" fill-opacity="0.2" stroke="#0284c7" stroke-opacity="0.4" stroke-width="1"/>
+    <circle cx="12" cy="12" r="4" class="metric-dot"/>
+    <text x="24" y="16" class="mono badge-text">PORTFOLIO • SPPU '27 • DATA &amp; AI</text>
+  </g>
+
+  <!-- Main Name Title -->
+  <text x="36" y="94" class="sans title-text">ABHIJEET ARUN GORE</text>
+
+  <!-- Subtitle / Positioning -->
+  <text x="36" y="128" class="sans tagline">
+    <tspan class="highlight">Data Analytics &amp; BI</tspan> • <tspan class="highlight">Machine Learning Engineering</tspan> • <tspan class="highlight">Applied AI Systems</tspan>
+  </text>
+
+  <text x="36" y="152" class="sans" font-size="13px" fill="#64748b">
+    B.E. Computer Engineering (Honours in Data Science) | SNJB College of Engineering, SPPU | Open to Entry-Level &amp; FDE Roles
+  </text>
+
+  <!-- Quick Tech Badges -->
+  <g transform="translate(36, 172)">
+    <!-- Pill 1 -->
+    <rect x="0" y="0" width="76" height="26" class="pill-bg"/>
+    <text x="38" y="17" text-anchor="middle" class="mono pill-text">Python</text>
+
+    <!-- Pill 2 -->
+    <rect x="84" y="0" width="60" height="26" class="pill-bg"/>
+    <text x="114" y="17" text-anchor="middle" class="mono pill-text">SQL</text>
+
+    <!-- Pill 3 -->
+    <rect x="152" y="0" width="90" height="26" class="pill-bg"/>
+    <text x="197" y="17" text-anchor="middle" class="mono pill-text">Power BI</text>
+
+    <!-- Pill 4 -->
+    <rect x="250" y="0" width="108" height="26" class="pill-bg"/>
+    <text x="304" y="17" text-anchor="middle" class="mono pill-text">Scikit-Learn</text>
+
+    <!-- Pill 5 -->
+    <rect x="366" y="0" width="76" height="26" class="pill-bg"/>
+    <text x="404" y="17" text-anchor="middle" class="mono pill-text">FastAPI</text>
+
+    <!-- Pill 6 -->
+    <rect x="450" y="0" width="112" height="26" class="pill-bg"/>
+    <text x="506" y="17" text-anchor="middle" class="mono pill-text">Apache Airflow</text>
+
+    <!-- Pill 7 -->
+    <rect x="570" y="0" width="138" height="26" class="pill-bg"/>
+    <text x="639" y="17" text-anchor="middle" class="mono pill-text">LLMs &amp; RAG Pipelines</text>
+  </g>
+</svg>
