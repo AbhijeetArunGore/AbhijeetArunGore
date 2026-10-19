@@ -176,5 +176,5 @@ I am actively interviewing for **Data Analyst**, **BI Analyst**, **Applied AI En
 * **Portfolio Website:** [abhijeetgore.me](https://abhijeetgore.me) *(or [abhijeetarungore.github.io/about-me](https://abhijeetarungore.github.io/about-me/))*
 * **LinkedIn:** [linkedin.com/in/abhijeet-gore-972225282](https://www.linkedin.com/in/abhijeet-gore-972225282)
 * **GitHub Profile:** [github.com/AbhijeetArunGore](https://github.com/AbhijeetArunGore)
-* **Professional Email:** [abhijeetarungore@gmail.com](mailto:abhijeetarungore@gmail.com) *(Account notification email: goreabhijeet137@gmail.com)*
+* **Professional Email:** [abhijeetarungore@gmail.com](mailto:abhijeetarungore@gmail.com)
 * **Location:** Maharashtra, India • Open to relocation (Pune, Bengaluru, Hyderabad, Mumbai) & Remote
